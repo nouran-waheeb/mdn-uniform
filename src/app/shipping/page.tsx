@@ -1,3 +1,5 @@
+"use client";
+
 import { PageLayout } from "@/components/layout/PageLayout";
 import { ShippingForm } from "@/components/checkout/ShippingForm";
 import { siteSettings } from "@/config/site-settings";
